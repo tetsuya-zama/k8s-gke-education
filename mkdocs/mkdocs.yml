@@ -1,0 +1,9 @@
+theme:
+  name: 'material'
+  language: 'ja'
+extra:
+  search:
+    language: 'ja'
+site_name: k8s demo site
+nav:
+  - Home: index.md
